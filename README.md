@@ -52,7 +52,7 @@
 
 <ul>
   <li><a href="https://www.linkedin.com/in/desouzarafael/"><strong>LinkedIn</strong></a></li>
-  <li><a href="https://rafaelsouza.dev"><strong>Personal Website - Coming Soon</strong></a></li>
+  <li><a href="https://rafaelsouza.dev/en/"><strong>Personal Website</strong></a></li>
 </ul>
 <br>
 
